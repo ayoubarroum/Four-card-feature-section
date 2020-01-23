@@ -17,7 +17,7 @@ h3 {
 body {
   font-family: 'poppins', sans-serif;
   background-color: #FAFAFA;
-  
+
 }
 table{
   margin: auto;
@@ -26,7 +26,7 @@ table{
 
 .intro {
   margin: auto;
-  width: 550px;
+  width: 34.375em;
   text-align: center;
 }
 
@@ -36,7 +36,7 @@ table{
 
 div {
   width: 25%;
-  height: 185px;
+  height: 11.5625em;
 }
 svg {
   float: right;
@@ -50,9 +50,8 @@ svg {
   background-color: white;
   border-top: solid;
   border-radius:1.5%;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-bottom: 25px;
+  padding : 1.5625em;
+
   border-color: hsl(180, 62%, 55%);
   box-shadow: 2px 4px 18px 0px #A9A9A9;
 }
@@ -66,9 +65,7 @@ svg {
   padding-top: 4px;
   border-top: solid;
   border-radius:1.5%;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-bottom: 25px;
+  padding: 1.5625em;
   border-color: hsl(0, 78%, 62%);
   box-shadow: 2px 4px 18px 0px #A9A9A9;
 
@@ -83,9 +80,8 @@ svg {
   padding-top: 4px;
   border-top: solid;
   border-radius:1.5%;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-bottom: 25px;
+  padding: 1.5625em;
+
   border-color: hsl(34, 97%, 64%);
 box-shadow: 2px 4px 18px 0px #A9A9A9;
 }
@@ -99,9 +95,8 @@ box-shadow: 2px 4px 18px 0px #A9A9A9;
   background-color: white;
   border-top: solid;
   border-radius:1.5%;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-bottom: 25px;
+  padding: 1.5625em;
+
   border-color: hsl(212, 86%, 64%);
   box-shadow: 2px 4px 18px 0px #A9A9A9;
 }
