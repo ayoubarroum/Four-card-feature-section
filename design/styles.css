@@ -1,0 +1,107 @@
+p {
+  color: #B7B6BB;
+}
+
+h1 {
+  color: #4B4E60;
+  line-height: 0.5;
+  text-align: center;
+
+}
+
+h3 {
+  color: #4B4E60;
+  line-height: 0.5;
+}
+
+body {
+  font-family: 'poppins', sans-serif;
+  background-color: #FAFAFA;
+  
+}
+table{
+  margin: auto;
+  margin-bottom: 70px;
+}
+
+.intro {
+  margin: auto;
+  width: 550px;
+  text-align: center;
+}
+
+.firstheading {
+  font-weight: lighter;
+}
+
+div {
+  width: 25%;
+  height: 185px;
+}
+svg {
+  float: right;
+}
+.supervisor{
+  position: absolute;
+
+  left:55px;
+  top: 340px;
+  margin-bottom: 70px;
+  background-color: white;
+  border-top: solid;
+  border-radius:1.5%;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  border-color: hsl(180, 62%, 55%);
+  box-shadow: 2px 4px 18px 0px #A9A9A9;
+}
+.team-builder {
+
+  position: relative;
+  width:25%;
+  margin: auto;
+  margin-bottom: 30px;
+  background-color: white;
+  padding-top: 4px;
+  border-top: solid;
+  border-radius:1.5%;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  border-color: hsl(0, 78%, 62%);
+  box-shadow: 2px 4px 18px 0px #A9A9A9;
+
+}
+
+.karma{
+  position: relative;
+  margin:auto;
+  margin-top: 5px;
+  margin-bottom: 100px;
+  background-color: white;
+  padding-top: 4px;
+  border-top: solid;
+  border-radius:1.5%;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  border-color: hsl(34, 97%, 64%);
+box-shadow: 2px 4px 18px 0px #A9A9A9;
+}
+
+
+.calculator{
+  position: absolute;
+  left:907px;
+  top: 340px;
+  margin-bottom: 70px;
+  background-color: white;
+  border-top: solid;
+  border-radius:1.5%;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  border-color: hsl(212, 86%, 64%);
+  box-shadow: 2px 4px 18px 0px #A9A9A9;
+}
