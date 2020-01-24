@@ -118,7 +118,7 @@ box-shadow: 2px 4px 18px 0px #A9A9A9;
   border-color: hsl(212, 86%, 64%);
   box-shadow: 2px 4px 18px 0px #A9A9A9;
 }
-@media /*only screen*/(min-width: 375px) and (max-width: 1200px){
+@media /*only screen*/(min-width: 375px) and (max-width: 1024px){
 
 h1 {
   text-align: center;
