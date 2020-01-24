@@ -4,7 +4,7 @@ p {
 
 h1 {
   color: #4B4E60;
-  line-height: 0.5;
+  line-height: 0.75;/**/
   text-align: center;
 
 
@@ -13,7 +13,7 @@ h1 {
   font-size: 11px;
   text-align: center;
 
-  margin-top: 100px;
+  margin-top: 100px;/**/
 
 }
 
@@ -30,12 +30,15 @@ body {
   font-family: 'poppins', sans-serif;
   background-color: #FAFAFA;
   font-size: 100%;
+  margin-top: 80px;
 
 
 }
 .top /*div lifiha h1 & p*/{
   margin: auto;
   margin-bottom: 70px;
+
+
 
 }
 
@@ -61,7 +64,7 @@ svg {
   position: absolute;
 
   left:55px;
-  top: 340px;
+  top: 440px;
   margin-bottom: 70px;
   background-color: white;
   border-top: solid;
@@ -105,7 +108,7 @@ box-shadow: 2px 4px 18px 0px #A9A9A9;
 #calculator{
   position: absolute;
   left:907px;
-  top: 340px;
+  top: 440px;
   margin-bottom: 70px;
   background-color: white;
   border-top: solid;
@@ -116,23 +119,24 @@ box-shadow: 2px 4px 18px 0px #A9A9A9;
   box-shadow: 2px 4px 18px 0px #A9A9A9;
 }
 @media /*only screen*/(min-width: 375px) and (max-width: 1200px){
-  body {
-    font-size: 100%;
-    width: 90%;
-    margin: auto;
-}
+
 h1 {
   text-align: center;
   width: 90%;
   font-size:180%;
   margin: auto;
+  line-height: 2;
+}
+.firstheading{
   line-height: 1.5;
-
 }
 #intro {
   margin: auto;
-  width: 90%;
+  width: 80%;
   text-align: center;
+}
+.top {
+  margin-top: 70px;
 }
 .content {
   width: 80%;
